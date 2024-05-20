@@ -48,7 +48,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Theme Previews:** Display a small preview of the theme next to the toggle switch for users to see a quick overview of the change.
 
 ## Demo
-Check out our live demo to see the Dark Mode/Light Mode Toggle Card in action: [Live Demo](https://your-demo-link.com)
+Check out our live demo to see the Dark Mode/Light Mode Toggle Card in action: [Live Demo]([https://your-demo-link.com](https://navalrathore10.github.io/Dark-mode-Toggle-Card/))
 
 ---
 
