@@ -28,8 +28,8 @@ To integrate the Dark Mode/Light Mode Toggle Card into your project, follow thes
    
 
 5. **Add the fonts and icons:**
-   - Download the fonts Fredericka the Great from [here](Link) and Poppins from [here](Link).
-   - Import Font Awesome CDN from [here](Link).
+   - Download the fonts Fredericka the Great and Poppins from [here]([Link](https://fonts.google.com/)).
+   - Import the Latest Font Awesome CDN from [here]([Link](https://cdnjs.com/libraries/font-awesome)).
 
 ### Usage
 Simply click the toggle to switch between dark and light modes. The card will remember your preference and apply the chosen theme automatically on subsequent visits.
